@@ -1,4 +1,4 @@
-public class MaximumSubArray {
+public class P027_MaximumSubArray {
     public int maxSubArray(int[] nums) {
 
         // Tracks the sum of the current subarray
