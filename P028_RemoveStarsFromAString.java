@@ -1,4 +1,4 @@
-public class P027_RemoveStarsFromAString {
+public class P028_RemoveStarsFromAString {
 
     public String removeStars(String s) {
         // StringBuilder acts like a stack to build the final string efficiently
